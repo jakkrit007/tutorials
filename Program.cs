@@ -7,6 +7,7 @@ namespace VisualStudioCsharpCode
        public static void Main(string[] args)
        {
            Console.WriteLine("Hello to try typing c# code in visual studio code");
+           Console.WriteLine("Hello ");
        }
    }
 }
